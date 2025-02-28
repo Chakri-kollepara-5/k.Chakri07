@@ -1,4 +1,4 @@
-1. Software Requirements
-2. Required Python Libraries
-3. Trained Model
-4. Dataset
+Software Requirements
+Required Python Libraries
+Trained Model
+Dataset
