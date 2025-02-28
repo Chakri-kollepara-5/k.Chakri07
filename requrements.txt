@@ -1,4 +1,5 @@
-Software Requirements
-Required Python Libraries
-Trained Model
-Dataset
+Streamlit
+Pandas
+NumPy
+Scikit-learn
+Pickle
